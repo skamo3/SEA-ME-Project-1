@@ -1,2 +1,2 @@
-# project template
-Template repository for a SEA:ME (OER) project.
+# Pilot Project 1 - PiRacer
+Please find the subject file in subject folder.
