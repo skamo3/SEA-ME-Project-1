@@ -17,8 +17,8 @@ PiRacer DonkeyCar — AI Autonomous Racing Robot Powered by Raspberry Pi 4, Deep
 # Objectives
 * Form a team of two
 * Each team to assemble PiRacer and make it run on following manual modes only:
-** Control using Web interface
-** Control using game controller (gamepad)
+  * Control using Web interface
+  * Control using game controller (gamepad)
 
 
 # Common Instructions
@@ -40,6 +40,3 @@ Safety first! Electronics is a potentially dangerous hobby. Any circuit that wor
 * Turn right
 * Prepare “How-To” documentation
 
-
-# Submission & Peer evaluation
-How to do peer evaluation
